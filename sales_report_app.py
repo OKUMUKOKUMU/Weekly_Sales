@@ -439,4 +439,3 @@ elif selected_section == "Generate Report":
 # Footer
 st.markdown("---")
 st.markdown("*Weekly Sales Report Generator - Built with Streamlit*")
-   
